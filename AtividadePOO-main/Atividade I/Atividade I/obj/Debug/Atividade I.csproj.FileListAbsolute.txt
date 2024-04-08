@@ -1,0 +1,22 @@
+C:\Users\2jd\Documents\Ichikawa_Carvalho\Atividade I\Atividade I\bin\Debug\Atividade I.exe.config
+C:\Users\2jd\Documents\Ichikawa_Carvalho\Atividade I\Atividade I\bin\Debug\Atividade I.exe
+C:\Users\2jd\Documents\Ichikawa_Carvalho\Atividade I\Atividade I\bin\Debug\Atividade I.pdb
+C:\Users\2jd\Documents\Ichikawa_Carvalho\Atividade I\Atividade I\obj\Debug\Atividade I.csproj.AssemblyReference.cache
+C:\Users\2jd\Documents\Ichikawa_Carvalho\Atividade I\Atividade I\obj\Debug\Atividade_I.Salarios.resources
+C:\Users\2jd\Documents\Ichikawa_Carvalho\Atividade I\Atividade I\obj\Debug\Atividade_I.Properties.Resources.resources
+C:\Users\2jd\Documents\Ichikawa_Carvalho\Atividade I\Atividade I\obj\Debug\Atividade I.csproj.GenerateResource.cache
+C:\Users\2jd\Documents\Ichikawa_Carvalho\Atividade I\Atividade I\obj\Debug\Atividade I.csproj.CoreCompileInputs.cache
+C:\Users\2jd\Documents\Ichikawa_Carvalho\Atividade I\Atividade I\obj\Debug\Atividade I.exe
+C:\Users\2jd\Documents\Ichikawa_Carvalho\Atividade I\Atividade I\obj\Debug\Atividade I.pdb
+C:\Users\2jd\Documents\BrunoIchikawaDanielCarvalho2JD\POO\AtividadePOO-main\Atividade I\Atividade I\bin\Debug\Atividade I.exe.config
+C:\Users\2jd\Documents\BrunoIchikawaDanielCarvalho2JD\POO\AtividadePOO-main\Atividade I\Atividade I\bin\Debug\Atividade I.exe
+C:\Users\2jd\Documents\BrunoIchikawaDanielCarvalho2JD\POO\AtividadePOO-main\Atividade I\Atividade I\bin\Debug\Atividade I.pdb
+C:\Users\2jd\Documents\BrunoIchikawaDanielCarvalho2JD\POO\AtividadePOO-main\Atividade I\Atividade I\obj\Debug\Atividade I.csproj.AssemblyReference.cache
+C:\Users\2jd\Documents\BrunoIchikawaDanielCarvalho2JD\POO\AtividadePOO-main\Atividade I\Atividade I\obj\Debug\Atividade_I.Properties.Resources.resources
+C:\Users\2jd\Documents\BrunoIchikawaDanielCarvalho2JD\POO\AtividadePOO-main\Atividade I\Atividade I\obj\Debug\Atividade I.csproj.GenerateResource.cache
+C:\Users\2jd\Documents\BrunoIchikawaDanielCarvalho2JD\POO\AtividadePOO-main\Atividade I\Atividade I\obj\Debug\Atividade I.csproj.CoreCompileInputs.cache
+C:\Users\2jd\Documents\BrunoIchikawaDanielCarvalho2JD\POO\AtividadePOO-main\Atividade I\Atividade I\obj\Debug\Atividade I.exe
+C:\Users\2jd\Documents\BrunoIchikawaDanielCarvalho2JD\POO\AtividadePOO-main\Atividade I\Atividade I\obj\Debug\Atividade I.pdb
+C:\Users\2jd\Documents\BrunoIchikawaDanielCarvalho2JD\POO\AtividadePOO-main\Atividade I\Atividade I\obj\Debug\Atividade_I.frmmenu.resources
+C:\Users\2jd\Documents\BrunoIchikawaDanielCarvalho2JD\POO\AtividadePOO-main\Atividade I\Atividade I\obj\Debug\Atividade_I.frmsalarios.resources
+C:\Users\2jd\Documents\BrunoIchikawaDanielCarvalho2JD\POO\AtividadePOO-main\Atividade I\Atividade I\obj\Debug\Atividade_I.frmnadadores.resources
